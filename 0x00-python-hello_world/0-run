@@ -1,3 +1,2 @@
 #!/bin/bash
-#include main.py
 python3 $PYFILE
